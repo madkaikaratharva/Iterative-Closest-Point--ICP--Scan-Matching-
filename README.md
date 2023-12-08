@@ -22,7 +22,7 @@ The following files and folders are included:
 ## Dependencies :
 
 * Please install the following dependencies prior to running the code:
-    * `roscpp` 
+    * `numpy` 
     * `open3d`
     * `sklearn`
 
